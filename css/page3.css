@@ -5,17 +5,19 @@ body {
 }
 h1 {
     font-family: "DynaPuff", system-ui;
-    color: #112a46
+}
+a {
+    font-family: "Comic Relief", system-ui;
+}
+p {
+    font-family: "Comic Relief", system-ui;
+}
+h2 {
+    font-family: "DynaPuff", system-ui;
 }
 footer {
     font-family: "Comic Relief", system-ui;
 }
-p.card-text {
-    font-family: "Comic Relief", system-ui;
-}
-h5 {
+h3 {
     font-family: "DynaPuff", system-ui;
-}
-a {
-    font-family: "Comic Relief", system-ui;
 }
